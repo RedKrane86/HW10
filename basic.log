@@ -23,3 +23,43 @@ INFO:werkzeug:127.0.0.1 - - [16/Dec/2022 22:44:00] "GET /search?s=ываывпварапопр
 INFO:werkzeug:127.0.0.1 - - [16/Dec/2022 22:44:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
 INFO:werkzeug:127.0.0.1 - - [16/Dec/2022 22:44:01] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [16/Dec/2022 22:44:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 460-922-052
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\PycharmProjects\\skypro\\lesson12\\HW\\main\\main_blueprint.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 460-922-052
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:54:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:54:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:54:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:54:15] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:54:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:54:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:54:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:54:37] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:56:08] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 460-922-052
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:56:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:56:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:56:58] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:56:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:57:04] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:57:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:57:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:57:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: пурр
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:57:18] "GET /search?s=пурр HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:57:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:57:32] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [18/Dec/2022 11:57:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
